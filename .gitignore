@@ -3,3 +3,4 @@
 **/.pio/
 **/__pycache__/
 *.pyc
+.git_backup
