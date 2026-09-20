@@ -1,0 +1,13 @@
+idf_component_register(
+    SRCS
+        "main.c"
+    INCLUDE_DIRS
+        "."
+    PRIV_REQUIRES
+        display_bsp
+        lvgl
+        lvgl_port
+        i2c_bsp
+        qmi8658c
+        sd_card_bsp
+)

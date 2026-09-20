@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3:UploadSpeed=115200,CDCOnBoot=cdc,FlashSize=16M,PSRAM=opi",
+  "hardwareFolders": "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7,C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.7",
+  "otherLibrariesFolders": "F:\\softwork_2.0\\HXESP4848AI0210DIC-A\\Arduino\\libraries,D:\\我的资料库\\Documents\\Arduino\\libraries",
+  "sketchLocation": "F:\\softwork_2.0\\HXESP4848AI0210DIC-A\\Arduino\\examples\\10_CST3530_TP_Test"
+}

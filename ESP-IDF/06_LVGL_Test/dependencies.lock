@@ -1,0 +1,17 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.5.4
+  lvgl:
+    dependencies: []
+    source:
+      path: F:\softwork_2.0\HXESP3636AI0210QIC-A\ESP-IDF\06_LVGL_Test\components\lvgl
+      type: local
+    version: 8.3.11
+direct_dependencies:
+- idf
+- lvgl/lvgl
+manifest_hash: 51c82425867067870d6a2adf23229ee0f73ed7193cc9d34c6b2180cb1b9d24f5
+target: esp32s3
+version: 2.0.0

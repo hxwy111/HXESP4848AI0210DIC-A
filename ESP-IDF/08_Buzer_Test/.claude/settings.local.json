@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -n '715,745p;885,905p;1590,1605p' \"f:/softwork_2.0/HXESP4848AI0210DIC-A/.sch_tiles/pdftext.txt\")",
+      "Read(//f/softwork_2.0/HXESP4848AI0210DIC-A/.sch_tiles/**)",
+      "Bash(mkdir -p \"f:/softwork_2.0/HXESP4848AI0210DIC-A/原理图/_tiles\")",
+      "Bash(python -c ' *)",
+      "Bash(find \"f:/softwork_2.0/HXESP4848AI0210DIC-A\" -type f \\\\\\( -iname \"*.pdf\" -o -iname \"*.sch\" -o -iname \"*.brd\" -o -iname \"*.dsn\" -o -iname \"*.kicad_sch\" -o -iname \"*.json\" \\\\\\) 2>/dev/null | grep -v -i \"node_modules\\\\|build\" | head -60)",
+      "Read(//f/softwork_2.0/HXESP4848AI0210DIC-A/**)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+menu "HXESP4848AI0210DIC-A Board Configuration"
+config BOARD_LCD_H_RES
+    int "LCD horizontal resolution"
+    default 480
+config BOARD_LCD_V_RES
+    int "LCD vertical resolution"
+    default 480
+endmenu
